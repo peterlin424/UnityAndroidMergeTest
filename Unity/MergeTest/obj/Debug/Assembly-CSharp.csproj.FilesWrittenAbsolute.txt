@@ -1,0 +1,17 @@
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/obj/Debug/Assembly-CSharp.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/UnityEngine.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/UnityEditor.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MergeProject</string>
+    <string name="title_activity_page_one">PageOneActivity</string>
+    <string name="title_activity_page_two">PageTwoActivity</string>
+</resources>
