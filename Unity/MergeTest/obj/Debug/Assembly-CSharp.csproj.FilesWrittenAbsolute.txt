@@ -15,3 +15,4 @@
 /Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/apple/HybirdProject/MergeTest/Unity/MergeTest/Temp/bin/Debug/Vuforia.UnityExtensions.dll

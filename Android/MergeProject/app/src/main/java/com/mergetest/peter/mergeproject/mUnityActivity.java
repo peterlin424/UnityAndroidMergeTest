@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.unity3d.player.UnityPlayerActivity;
+import com.unity3d.player.UnityPlayerNativeActivity;
 
-public class mUnityActivity extends UnityPlayerActivity {
+public class mUnityActivity extends UnityPlayerNativeActivity {
 
     public static Activity mCurrentActivity;
 
